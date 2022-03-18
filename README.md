@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Theavuth Nhel, a Software Engineer (Back-End) at Nham24 (Go24).
-- 🌱 I’m currently learning DevOps, Python, distributed computing, and performance improvement.
-- 💞️ I’m looking to collaborate as a Senior Software Engineer (Back-End).
+- 🌱 I’m currently learning DevOps, performance improvement.
+<!-- - 💞️ I’m looking to collaborate as a Senior Software Engineer (Back-End).-->
 - 📫 How to reach me: theavuth.nhel.kh@gmail.com or https://www.linkedin.com/in/mrtheavuth/
 
 
