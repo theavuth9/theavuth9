@@ -5,7 +5,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theavuth9&count_private=true&show_icons=true)
-<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theavuth9&layout=compact)
 
 <!--
