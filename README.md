@@ -31,11 +31,13 @@ Here are some ideas to get you started:
 
 ---
 
-I'm a <b>self-taught full-stack developer with focus on front-end</b> who loves to learn, went from a Law background into the tech field with knowledge in the tecnologies listed in the toolbox below. 
+I'm a <b>Software Engineer (Back-End) at [GO24](https://nham24.com)</b> who loves to learn, went from a law background into the tech field with knowledge in the tecnologies listed in the toolbox below. 
 
-Passionate about design, problem solving and web development.
+Passionate about coding, problems solving and application development.
 
-Looking forward to reach and help 🐣newbies🐣 by sharing my journey on [Twitter](https://twitter.com/yuricodesbot) and writing regular web development and technologies content on Hashnode, [my blog](https://yuricodesbot.hashnode.dev/)! 
+<!--
+Looking forward to reach and help 🐣newbies🐣 by sharing my journey on [Twitter](https://twitter.com/TheavuthN) and writing regular web development and technologies content on Hashnode, [my blog](https://yuricodesbot.hashnode.dev/)! 
+-->
 
 
 ---
