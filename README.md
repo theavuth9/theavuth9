@@ -4,8 +4,8 @@
 - 📫 How to reach me: theavuth.nhel.kh@gmail.com or https://www.linkedin.com/in/mrtheavuth/
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theavuth9&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theavuth9&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theavuth9&layout=compact&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theavuth9&count_private=true&show_icons=true&theme=radical)
 
 <!--
 **theavuth9/theavuth9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 ![Brown Illustrated Flowers Twitter Header (10)](https://user-images.githubusercontent.com/80093500/182468711-1d3ec211-ab54-42b9-8eb3-8bf021aaa979.png)
 
 
@@ -34,10 +35,10 @@ Here are some ideas to get you started:
 I'm a <b>Software Engineer (Back-End) at [GO24](https://nham24.com)</b> who loves to learn, went from a law background into the tech field with knowledge in the tecnologies listed in the toolbox below. 
 
 Passionate about coding, problems solving and application development.
+-->
 
 <!--
 Looking forward to reach and help 🐣newbies🐣 by sharing my journey on [Twitter](https://twitter.com/TheavuthN) and writing regular web development and technologies content on Hashnode, [my blog](https://yuricodesbot.hashnode.dev/)! 
--->
 
 
 ---
@@ -63,7 +64,7 @@ Don't hesitate to contact me! 😄
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theavuth9&hide=ruby,shell&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Theavuth's GitHub stats](https://github-readme-stats.vercel.app/api?username=theavuth9&show_icons=true&theme=radical)
 
-
+-->
 
 
 <!--
