@@ -4,8 +4,8 @@
 - 📫 How to reach me: theavuth.nhel.kh@gmail.com or https://www.linkedin.com/in/mrtheavuth/
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theavuth9&layout=compact&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theavuth9&count_private=true&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theavuth9&layout=compact&theme=transparent)
+![Theavuth's GitHub stats](https://github-readme-stats.vercel.app/api?username=theavuth9&theme=transparent&show_icons=true)
 
 <!--
 **theavuth9/theavuth9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
